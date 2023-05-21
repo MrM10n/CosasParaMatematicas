@@ -141,6 +141,6 @@ Teorema de Pitagoras/Redondeo/Raíz cubica/Raíz cuadrada): """)
 
     repetir = input("¿Desea realizar otra operación? (s/n): ")
     if repetir.lower() != "s":
-        print("""Gracias por usar la calculadora ver:4 creada por Mrm10n el 20/05/2023.
+        print("""Gracias por usar la calculadora ver:4 creada por Mrm10n el 21/05/2023.
         Un programa hecho para el arte de las matematicas.""")
         break
