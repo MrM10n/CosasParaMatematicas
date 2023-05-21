@@ -1,0 +1,1 @@
+En este repositorio, solo se permiten programas de python para realizar operaciones matematicas, no se puede poner el mismo tema si ya hay uno, es decir, si ya hay un programa para sumar, no puedes hacer uno igual a menos de que sea una actialización o mejora
