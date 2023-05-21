@@ -110,10 +110,10 @@ Indice de masa corporal "IMC"/Secuencia/Teorema de Pitagoras/Redondeo): """)
     elif operacion.lower() == "secuencia":
         secuencia()
 
-    elif operacion.lower == "teorema de pitagoras":
+    elif operacion.lower() == "teorema de pitagoras":
         pitagoras()
 
-    elif operacion.lower == "redondeo":
+    elif operacion.lower() == "redondeo":
         redondear()
 
     else:
