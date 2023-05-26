@@ -17,4 +17,4 @@
 
 ## Contribución
 
-¡Tu contribución es bienvenida! Si tienes algún operador adicional, mejora o corrección que te gustaría compartir, puedes enviar un pull request. Asegúrate de seguir las pautas de contribución del repositorio.
+¡Tu contribución es bienvenida! Si tienes algún operador adicional, mejora o corrección que te gustaría compartir, puedes enviar un pull request. Asegúrate de seguir las pautas de [contribución del repositorio](./CONTRIBUTING.md).
