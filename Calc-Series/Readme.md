@@ -7,6 +7,7 @@ En esta carpeta uso los archivos de operaciones para implementarlos en un archiv
 * [calculadora-3.py](calculadora-3.py)
 * [calculadora_4.py](calculadora_4.py)
 * [calculadora_5.py](calculadora_5.py)
+* [calculadora_6.py](calculadora_6.py)
 
 Esta lista sera ordenada conforme se vayan subiendo más versiones del mismo.
 
